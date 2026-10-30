@@ -1,10 +1,15 @@
 {
- "work": "賀茂翁家集",
+ "work": "賀茂翁家集（続日本歌学全書本）",
  "work_id": "zokukagaku01-kamo-okashu",
  "repo": "kumoi-no-fumigura/kagaku-kamo-okashu",
  "yomi": "かもおうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "江戸後期刊",
+  "author": "賀茂真淵（1697〜1769）",
+  "desc": "国学者賀茂真淵の家集。序は、真淵の歌風が初め・中頃・末の三つの段階を経たと述べる。万葉調を重んじた長歌・短歌を収める。門人の村田春海が板に彫り、のちに正誤も出した。"
+ },
  "editions": [
   {
    "pid": "993379",
